@@ -1,1 +1,1 @@
-# repositiry
+# repository
